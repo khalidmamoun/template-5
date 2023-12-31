@@ -212,7 +212,7 @@ body {
 }
 @media (max-width: 767px) {
   .special {
-    font-size: 80px;
+    font-size: 40px;
   }
 }
 /* <!-- End.Special service --> */
@@ -291,7 +291,7 @@ body {
 }
 @media (max-width: 767px) {
   .portfolio-content {
-    font-size: 80px;
+    font-size: 50px;
   }
 }
 /* <!-- End.Special portfolio --> */
@@ -305,7 +305,7 @@ body {
 }
 @media (max-widt: 767px) {
   .portfolio .container {
-    /* width: 100px; */
+    width: 90px;
   }
 }
 .portfolio {
@@ -357,7 +357,7 @@ body {
 }
 @media (max-width: 767px) {
   .about-content {
-    font-size: 80px;
+    font-size: 50px;
   }
 }
 /* end spacial about */
@@ -416,7 +416,7 @@ body {
 @media (max-width: 767px) {
   .about-main .about p {
     padding-top: 50px;
-    width: 320px;
+    width: 90px;
     margin: 0;
   }
 }
@@ -470,7 +470,7 @@ body {
 }
 @media (max-width: 767px) {
   .contact1 {
-    font-size: 80px;
+    font-size: 50px;
   }
 }
 /* end spacial contact1 */
