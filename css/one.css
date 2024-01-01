@@ -182,7 +182,10 @@ body {
 .landing .intro-text p {
   font-size: 19px;
   line-height: 1.8;
-  color: var(--main-color);
+  color: white;
+  margin-top: 50px;
+  box-shadow: 0 2px 15px rgb(255, 0, 0);
+  border-radius: 10px;
 }
 /* End Landing Section */
 /* Start Features */
